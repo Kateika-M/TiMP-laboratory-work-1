@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/timp1_2.dir/main.cpp.o CMakeFiles/timp1_2.dir/modAlphaCipher.cpp.o -o timp1_2 

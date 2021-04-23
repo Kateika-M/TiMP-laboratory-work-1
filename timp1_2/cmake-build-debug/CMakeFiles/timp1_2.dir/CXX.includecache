@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katya/CLionProjects/timp1_2/main.cpp
+modAlphaCipher.h
+/home/katya/CLionProjects/timp1_2/modAlphaCipher.h
+
+/home/katya/CLionProjects/timp1_2/modAlphaCipher.cpp
+modAlphaCipher.h
+/home/katya/CLionProjects/timp1_2/modAlphaCipher.h
+
+/home/katya/CLionProjects/timp1_2/modAlphaCipher.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+cctype
+-
+locale
+-
+codecvt
+-
+algorithm
+-
+
